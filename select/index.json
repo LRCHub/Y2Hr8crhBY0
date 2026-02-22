@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WALKING AWAY",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-02-22T19:29:18.287957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walking Away A Winner",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/01_Walking_Away_A_Winner_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walking Away A Winner (Album Version)",
+      "artist": "Kathy Mattea",
+      "has_synced": true,
+      "path": "select/02_Walking_Away_A_Winner_(Album_Version)_Kathy_Mattea.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Don't Let Me Go (Walking Away)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/03_Love_Don't_Let_Me_Go_(Walking_Away)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Don’t Let Me Go (Walking Away)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/04_Love_Don’t_Let_Me_Go_(Walking_Away)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walking Away",
+      "artist": "Haim",
+      "has_synced": true,
+      "path": "select/05_Walking_Away_Haim.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walking Away",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/06_Walking_Away_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walking Away",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/07_Walking_Away_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Walking Away (Album Version)",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/08_Walking_Away_(Album_Version)_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Walking Away (Radio Version)",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/09_Walking_Away_(Radio_Version)_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Walking Away (Space Age Mix)",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/10_Walking_Away_(Space_Age_Mix)_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Walking Away (Leaether Strip Mix)",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/11_Walking_Away_(Leaether_Strip_Mix)_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walking Away [leaether strip mix]",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/12_Walking_Away_[leaether_strip_mix]_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Walking Away from the Edge",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/13_Walking_Away_from_the_Edge_Journey.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Walking Away",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/14_Walking_Away_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love You When You're Walking Away",
+      "artist": "Plumtree",
+      "has_synced": true,
+      "path": "select/15_I_Love_You_When_You're_Walking_Away_Plumtree.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Walking Away",
+      "artist": "Phantom Blue",
+      "has_synced": false,
+      "path": "select/16_Walking_Away_Phantom_Blue.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WALKING AWAY",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_WALKING_AWAY_Justin_Bieber.txt"
+    }
+  ]
+}
